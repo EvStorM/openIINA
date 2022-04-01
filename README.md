@@ -1,3 +1,3 @@
-# Open In IINA (Chrome)
+# Open In IINA+ (Chrome)
 
 WIP
