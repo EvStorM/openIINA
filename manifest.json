@@ -1,0 +1,22 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "Open In IINA+"
+   },
+   "description": "Open videos and audios in IINA+.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkcG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApMepACWtpWbSnJHdV+/g+fE87emCV1xUoXk0kxr2CMIvHtxduXfjO5NE2algl1vlZKGf/WJ4lrrlWhqOx4wtl+FCYsFfrjcUsF37ebrSZDg45ZsRZmJEfODpNLHemfUzJMFC5w7jvj9VXgxd06mRjmMPD7VOEshng1zbjzDiZwWuwEvkuFITcRlhCvLyckt/LQnwhaSt358suwa6dwm7LJoeumaoPYLI0QjOP1W7Dce3Tce0ZtKgFu+o0DhoQhNv51uER4EaCmqRb54OKBEG9sEPZGKfWbXYcXojD/VkTrxSPmRX3sYRPMc5vjoVZ8liIPMkwG94e5ghD2VkRe8yjwIDAQAB",
+   "manifest_version": 2,
+   "name": "Open In IINA+",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "activeTab", "contextMenus", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.0"
+}
